@@ -1,0 +1,1 @@
+# easycfg_blogrepo
